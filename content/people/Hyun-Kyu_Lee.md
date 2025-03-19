@@ -2,7 +2,7 @@
 title  = "이현규"
 date   = "2024-09-02T01:00:00+09:00"
 teams  = ["graduate"]
-banner = "img/people/Hyun-Kyu_Lee.jpg"
+banner = "img/people/hyunkyulee.png"
 email  = "leehk20@yonsei.ac.kr"
 job    = "통합과정(박사)"
 phone  = "02-2123-7643"
