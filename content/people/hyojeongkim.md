@@ -2,7 +2,7 @@
 title = "김효정"
 date = "2024-03-18T01:00:00+09:00"
 teams = ["staff"]
-banner = "img/people/hyojeongkim.jpg"
+banner = "img/people/hyojkim.png"
 email = "kimhj29@yonsei.ac.kr"
 job = "박사 후 연구원"
 phone = "02-2123-7608"
