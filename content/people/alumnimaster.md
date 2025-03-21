@@ -1240,6 +1240,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">이산화탄소 4배 증감 실험에서의 남극해 수송 변화의 이해</td>
     <td class="tg-s8ju">송하준</td>
   </tr>
+   <tr>
+    <td class="tg-s8ju">지승배</td>
+    <td class="tg-s8ju">2025년 2월</td>
+    <td class="tg-s8ju">외부 공기 유입에 의한 얕은 적운의 하위 영역 내 미세물리적 특성 영향에 관한 관측 연구</td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
 
 
 </table></div>
