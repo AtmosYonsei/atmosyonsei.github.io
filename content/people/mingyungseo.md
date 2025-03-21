@@ -24,6 +24,8 @@ weight = 40
 + (2022.01.12) 우수논문장려상, 연세대학교 대학원 2021-2학기 우수 논문상 석사학위과정 자연부분 
 
 #### 논문
++ Cho, Y., H. M. Kim, and M.-G. Seo, 2025: A comparison of CO2 emissions from the national greenhouse gases inventory report with CO2 emissions from the global inverse models and the regional WRF-Chem in the Korean Peninsula. Mitigation and Adaptation Strategies for Global Change, 30, 1-24, https://doi.org/10.1007/s11027-024-10195-5.
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: High-resolution atmospheric CO2 concentration data simulated in WRF-Chem over East Asia for 10 years. Geoscience Data Journal, 11, 1024-1043, https://doi.org/10.1002/gdj3.273.
 + Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, 155, 859-877, https://doi.org/10.1007/s00704-023-04663-2.
 + Seo, M.-G., and H. M. Kim, 2023: Effect of meteorological data assimilation using 3DVAR on high-resolution simulations of atmospheric CO2 concentrations in East Asia. Atmospheric Pollution Research, 14, 101759, https://doi.org/10.1016/j.apr.2023.101759.
 

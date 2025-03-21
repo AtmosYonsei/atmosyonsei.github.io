@@ -40,6 +40,10 @@ weight = 5
 + 예측가능성론
 
 #### 논문
++ Cho, Y., H. M. Kim, and M.-G. Seo, 2025: A comparison of CO2 emissions from the national greenhouse gases inventory report with CO2 emissions from the global inverse models and the regional WRF-Chem in the Korean Peninsula. Mitigation and Adaptation Strategies for Global Change, 30, 1-24, https://doi.org/10.1007/s11027-024-10195-5.
++ Kim, D.-H., and H. M. Kim, 2024: Adjoint-based observation impact on meteorological forecast errors in the Arctic. Quarterly Journal of the Royal Meteorological Society, 150, 5403-5421, https://doi.org/10.1002/qj.4876.
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: High-resolution atmospheric CO2 concentration data simulated in WRF-Chem over East Asia for 10 years. Geoscience Data Journal, 11, 1024-1043, https://doi.org/10.1002/gdj3.273.
+
 + Kim, D.-H., and H. M. Kim, 2024: Effect of microphysics scheme and data assimilation on hydrometer and radiative flux simulations in the Arctic. Royal Society Open Science, 11, 240594, https://doi.org/10.1098/rsos.240594.
 + Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, 38, 1-23. https://doi.org/10.1007/s13351-024-3152-8.
 + Ha, S., R. Kumar, G. G. Pfister, Y. Lee, D. Lee, H. M. Kim, and Y.-H. Ryu, 2024: Chemical data assimilation with aqueous chemistry in WRF-Chem coupled with WRFDA (V4.4.1). Journal of Advances in Modeling Earth Systems, 16, e2023MS003928, https://doi.org/10.1029/2023MS003928.
