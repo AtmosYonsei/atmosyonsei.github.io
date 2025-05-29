@@ -751,6 +751,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
 					ENSO phase locking, AMOC transition,<br> 
 					and Arctic multidecadal oscillation </td>
      <td class="tg-s8ju">안순일</td>
+  </tr>
+  <tr>
+   <td class="tg-s8ju">오동건</td>
+   <td class="tg-s8ju">2023년 2월</td>
+   <td class="tg-s8ju">Investigation of Cloud Microphysics Processes by Using Lagrangian Cloud Model:<br>
+                                        and Its Application of the Parameterization </td>
+     <td class="tg-s8ju">노의근</td>
   </tr>  
   <tr>
     <td class="tg-s8ju">김지섭</td>
