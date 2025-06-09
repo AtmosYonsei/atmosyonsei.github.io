@@ -13,5 +13,5 @@ icon: "calendar"
 <br>
 <br>
 
-[연세대학교 학사일정 바로가기](http://www.yonsei.ac.kr/sc/support/calendar.jsp)
+[연세대학교 학사일정 바로가기](https://www.yonsei.ac.kr/sc/272/subview.do)
 <br>
