@@ -12,7 +12,7 @@ weight = 40
 +++
 
 #### 연구분야
- +  Aerosols-meteorology interactions and Regional-scale air quality modeling2
+ +  Aerosols-meteorology interactions and Regional-scale air quality modeling3
 
 #### 학력
  + **M.S.**(2024) in Atmospheric Sciences, Kongju National University
