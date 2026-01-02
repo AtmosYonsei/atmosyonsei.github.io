@@ -4,7 +4,7 @@ date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
-job = "정교수"
+job = "정교수, 연세 이윤재 펠로우 교원"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
 web = "http://atrad.yonsei.ac.kr"
@@ -39,12 +39,13 @@ weight = 4
 
 
 #### 수상
-+ 2024. 9        :        미국 미시건 대학 공과대학 Alumni Merit Award
++ 2025-10       :        독일 알렉산더 폰 훔볼트 재단 Humboldt Research Award (훔볼트연구상)
++ 2025-08        :        미국 NASA Exceptional Public Service Medal (특별공로훈장)
++ 2024-09        :        미국 미시건 대학 공과대학 Alumni Merit Award
 + 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
-+ 2019. 4        :        정부 과학기술 포장
-+ 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
-+ 2018. 1        :        연세대학교 공헌교수상
-+ 2017. 6        :        NASA Group Achievement Award
++ 2019-04        :        정부 과학기술 포장
++ 2018-02        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
++ 2017-06        :        NASA Group Achievement Award
 
 
 #### 담당 과목
@@ -54,6 +55,7 @@ weight = 4
 + 환경원격탐사
 
 #### 논문
++ Ren, Y., Oxford, C.R., Zhang, D., ..., J. Kim et al. (2025) Black carbon emissions generally underestimated in the global south as revealed by globally distributed measurements. Nature Communications, 16, 7010. https://doi.org/10.1038/s41467-025-62468-5
 + Kim, J., and Coauthors, 2020: New Era of Air Quality Monitoring from Space: Geostationary Environment Monitoring Spectrometer (GEMS). BAMS, 101, E1–E22, https://doi.org/10.1175/BAMS-D-18-0013.1.
 + Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
 + Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
