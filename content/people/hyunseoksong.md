@@ -2,7 +2,7 @@
 title = "송현석"
 date = "2026-04-01T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/송현석_석사과정.jpg"
+banner = "img/people/송현석.jpg"
 email = "@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-3872"
