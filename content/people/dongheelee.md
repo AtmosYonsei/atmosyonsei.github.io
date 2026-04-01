@@ -1,10 +1,10 @@
 +++
 title = "이동희"
-date = "2018-03-24T13:39:46+02:00"
-teams = ["graduate"]
+date = "2026-04-01T13:39:46+02:00"
+teams = ["staff"]
 banner = "img/people/dongheelee.png"
 email = "awzsseed@yonsei.ac.kr"
-job = "박사과정"
+job = "박사후연구원"
 phone = "02-2123-7624"
 room = "대기화학 연구실 / 과학관 535호"
 web = "https://atmchem.yonsei.ac.kr"
