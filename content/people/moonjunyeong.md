@@ -1,12 +1,12 @@
 +++
 title = "문준영"
-date = "2024-03-18T01:00:00+09:00"
+date = "2026-04-01T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/moonjunyeong.jpg"
+banner = "img/people/문준영_박사1.jpg"
 email = "jy.moon@yonsei.ac.kr"
-job = "석사과정"
+job = "박사과정"
 phone = ""
-room = "기후이론 연구실 / 첨단관 606호"
+room = "기후이론 연구실 / 과학관 536A호"
 web = "https://ysctl.yonsei.ac.kr/"
 weight = 40
 +++

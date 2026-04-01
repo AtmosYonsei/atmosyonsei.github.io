@@ -1,10 +1,10 @@
 +++
 title = "염성수"
-date = "2018-04-15T13:39:46+02:00"
-teams = ["faculty"]
+date = "2026-04-01T13:39:46+02:00"
+teams = ["퇴임교수"]
 banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
-job = "정교수"
+job = "퇴임교수(2001~2025)"
 phone = "02-2123-5681"
 room = "구름물리 연구실 / 과학관 547호"
 web = "http://cloud.yonsei.ac.kr/"
