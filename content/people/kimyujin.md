@@ -2,7 +2,7 @@
 title = "김유진"
 date = "2026-04-01"
 teams = ["graduate"]
-banner = "img/people/김유진.png"
+banner = "img/people/김유진_박사과정.jpg"
 email = "ijoa22@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7608"
