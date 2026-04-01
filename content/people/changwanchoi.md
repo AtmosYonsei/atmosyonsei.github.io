@@ -1,5 +1,5 @@
 +++
-title  = '최창완" 
+title  = "최창완" 
 date   = "2026-04-01T01:00:00+09:00"
 teams  = ["graduate"]
 banner = "img/people/최창완_석사과정.jpg"
@@ -16,7 +16,7 @@ weight = 40
 
 #### 학력
  + **B.S.**
- + 
+ 
 
 #### 수상내역
  +
