@@ -1,10 +1,10 @@
 +++
 title = "안다현"
-date = "2018-03-24T13:39:46+02:00"
-teams = ["graduate"]
-banner = "img/people/DhaHyun_Ahn.png"
+date = "2026-04-01T13:39:46+02:00"
+teams = ["staff"]
+banner = "img/people/안다현_포닥.png"
 email = "devorahn711@gmail.com"
-job = "통합과정"
+job = "박사후연구원"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 531호"
 web = "http://atrad.yonsei.ac.kr/"

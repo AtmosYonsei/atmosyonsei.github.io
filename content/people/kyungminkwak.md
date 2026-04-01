@@ -1,10 +1,10 @@
 +++
 title = "곽경민"
-date = "2018-03-24T13:39:46+02:00"
-teams = ["graduate"]
+date = "2026-03-31T13:39:46+02:00"
+teams = ["staff"]
 banner = "img/people/kyungminkwak.png"
 email = "kminkwak@yonsei.ac.kr"
-job = "박사과정"
+job = "박사후연구원"
 phone = "02-2123-7608"
 room = "대기해양모델링연구실 / 과학관 532호"
 web = "http://airsea.yonsei.ac.kr"

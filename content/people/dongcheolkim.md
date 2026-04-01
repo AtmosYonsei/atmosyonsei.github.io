@@ -1,10 +1,10 @@
 +++
 title = "김동철"
-date = "2024-03-18T01:00:00+09:00"
-teams = ["graduate"]
+date = "2026-04-01T01:00:00+09:00"
+teams = ["staff"]
 banner = "img/people/dongcheolkim.jpg"
 email = "mr_cheol@yonsei.ac.kr"
-job = "박사과정"
+job = "박사후연구원"
 phone = ""
 room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
