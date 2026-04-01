@@ -1,5 +1,5 @@
 +++
-title  = '김건하" 
+title  = "김건하" 
 date   = "2026-04-01T01:00:00+09:00"
 teams  = ["graduate"]
 banner = "img/people/김건하_석사과정.jpg"
@@ -16,7 +16,6 @@ weight = 40
 
 #### 학력
  + **B.S.**
- + 
 
 #### 수상내역
  +
