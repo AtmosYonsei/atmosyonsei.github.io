@@ -1,12 +1,12 @@
 ﻿+++
 title = "박효진"
-date = "2025-03-05T13:39:46+02:00"
+date = "2026-04-02"
 teams = ["graduate"]
 banner = "img/people/hyojinpark.jpg"
 email = "hjpark1021@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
-room = "기후이론 연구실 / 첨단관 307호"
+room = "기후이론 연구실 /과학관 536A호"
 web = "https://ysctl.yonsei.ac.kr/"
 weight = 50
 +++

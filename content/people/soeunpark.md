@@ -1,12 +1,12 @@
 +++
 title = "박소은"
-date = "2020-03-24T13:39:46+02:00"
+date = "2026-04-02"
 teams = ["graduate"]
 banner = "img/people/soeunpark.jpg"
 email = "soeun102@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
-room = "기후이론 연구실 / 첨단관 606호"
+room = "기후이론 연구실 / 과학관관536A호"
 web = "https://www.yonseictl.com/"
 weight = 40
 +++

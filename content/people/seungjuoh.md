@@ -1,6 +1,6 @@
 ﻿+++
 title = "오승주"
-date = "2025-03-20T01:00:00+09:00"
+date = "2026-04-02"
 teams = ["graduate"]
 banner = "img/people/오승주_석사과정.jpg"
 email = "oowinjoo520@yonsei.ac.kr"

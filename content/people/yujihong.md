@@ -1,6 +1,6 @@
 +++
 title  = "홍유지" 
-date   = "2026-04-01T01:00:00+09:00"
+date   = "2026-04-01"
 teams  = ["graduate"]
 banner = "img/people/홍유지_석사과정.jpg"
 email  = " "
