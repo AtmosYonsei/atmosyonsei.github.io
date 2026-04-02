@@ -2,7 +2,7 @@
 title = "신지은"
 date = "2025-03-20T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/jieunshin.jpg"
+banner = "img/people/신지은.jpg"
 email = "newjieun@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7608"

@@ -1,6 +1,6 @@
 +++
 title = "박소은"
-date = "2026-04-02"
+date = "2024-04-02"
 teams = ["graduate"]
 banner = "img/people/soeunpark.jpg"
 email = "soeun102@yonsei.ac.kr"
