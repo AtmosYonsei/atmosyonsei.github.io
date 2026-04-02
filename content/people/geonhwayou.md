@@ -1,6 +1,6 @@
 +++
 title = "유건화"
-date = "2024-09-01"
+date = "2025-09-01"
 teams = ["graduate"]
 banner = "img/people/유건화_박사2.jpg"
 email = "gh_y@yonsei.ac.kr"
