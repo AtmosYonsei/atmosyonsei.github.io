@@ -1,6 +1,6 @@
 +++
 title = "문준영"
-date = "2026-04-01T01:00:00+09:00"
+date = "2026-04-01"
 teams = ["graduate"]
 banner = "img/people/문준영_박사1.jpg"
 email = "jy.moon@yonsei.ac.kr"
