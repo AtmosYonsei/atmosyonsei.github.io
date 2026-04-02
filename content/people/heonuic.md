@@ -1,6 +1,6 @@
 ﻿+++
 title = "최현의"
-date = "2026-04-01"
+date = "2026-04-02"
 teams = ["graduate"]
 banner = "img/people/최현의_박사과정.jpg"
 email = "Chui733@yonsei.ac.kr/"

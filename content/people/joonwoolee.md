@@ -1,6 +1,6 @@
 +++
 title = "이준우"
-date = "2026-04-01T13:39:46+02:00"
+date = "2026-04-02"
 teams = ["graduate"]
 banner = "img/people/이준우_통합과정.jpg"
 email = "joonhi@yonsei.ac.kr"
