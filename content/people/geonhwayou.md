@@ -1,14 +1,14 @@
 +++
 title = "유건화"
-date = "2025-09-01"
+date = "2026-04-01"
 teams = ["graduate"]
-banner = "img/people/유건화_박사2.jpg"
+banner = "img/people/유건화_박사과정.jpg"
 email = "gh_y@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
 room = "기후이론 연구실 / 과학관 536A호"
 web = "https://ysctl.yonsei.ac.kr/"
-weight = 40
+weight = 50
 +++
 
 #### 연구분야

@@ -2,7 +2,7 @@
 title = "안다현"
 date = "2026-04-01"
 teams = ["staff"]
-banner = "img/people/안다현.jpg"
+banner = "img/people/안다현_포닥.png"
 email = "devorahn711@gmail.com"
 job = "박사후연구원"
 phone = "02-2123-7616"
