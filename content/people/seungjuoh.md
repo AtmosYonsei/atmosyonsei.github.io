@@ -2,7 +2,7 @@
 title = "오승주"
 date = "2026-04-02"
 teams = ["graduate"]
-banner = "img/people/오승주_석사과정.jpg"
+banner = "img/people/오승주_석사과정.png"
 email = "oowinjoo520@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7616"

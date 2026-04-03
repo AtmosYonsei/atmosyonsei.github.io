@@ -2,7 +2,7 @@
 title = "이준경"
 date = "2026-04-01T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/이준경_석사.jpg"
+banner = "img/people/이준경_석사.png"
 email = "oowinjoo520@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7616"
