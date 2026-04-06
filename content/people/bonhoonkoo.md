@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
 banner = "img/people/bonhoonkoo.jpg"
 email = "bhkoo9803@yonsei.ac.kr"
-job = "석사과정"
+job = "박사과정"
 phone = "02-2123-5680"
 room = "미기상연구실/ 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
-weight = 40
+weight = 61
 +++
 
 #### 연구분야

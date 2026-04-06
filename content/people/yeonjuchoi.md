@@ -8,7 +8,7 @@ job = "연구교수"
 phone = "02-2123-7608"
 room = "대기해양모델링 연구실 / 과학관 554A호"
 web = "http://airsea.yonsei.ac.kr"
-weight = 40
+weight = 11
 +++
 
 #### 연구분야

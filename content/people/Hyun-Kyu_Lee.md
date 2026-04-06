@@ -8,7 +8,7 @@ job    = "통합과정(박사)"
 phone  = "02-2123-7643"
 room   = "대기역학연구실 / 과학관 533A호"
 web    = "http://atmosdyn.yonsei.ac.kr"
-weight = 40
+weight = 43
 +++
 
 #### 연구분야

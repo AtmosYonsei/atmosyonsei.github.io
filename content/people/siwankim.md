@@ -8,7 +8,7 @@ job = "연구교수"
 phone = ""
 room = ""
 web = ""
-weight = 40
+weight = 3
 +++
 
 #### 연구분야

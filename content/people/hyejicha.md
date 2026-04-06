@@ -8,7 +8,7 @@ job = "통합과정(박사)"
 phone = ""
 room = "대기복사연구실 / 과학관 531호"
 web = "http://atrad.yonsei.ac.kr"
-weight = 40
+weight = 45
 +++
 
 #### 연구분야

@@ -8,7 +8,7 @@ job = "박사후연구원"
 phone = "02-2123-7617"
 room = "대기복사연구실 / 과학관 536A호"
 web = "https://atrad.yonsei.ac.kr"
-weight = 40
+weight = 6
 +++
 
 #### 연구분야

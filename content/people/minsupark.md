@@ -8,7 +8,7 @@ job = "연구교수"
 phone = "02-2123-7613"
 room = "구름물리 연구실 / 과학관 530A호"
 web = "http://cloud.yonsei.ac.kr/"
-weight = 30
+weight = 5
 +++
 
 #### 연구분야

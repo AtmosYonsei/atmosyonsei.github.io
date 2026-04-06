@@ -8,7 +8,7 @@ job = "통합과정"
 phone = "02-2123-3872"
 room = "대기모형연구실 / 과학관 536B호"
 web = "http://lamor.yonsei.ac.kr/"
-weight = 50
+weight = 32
 +++
 
 #### 연구분야

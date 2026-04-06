@@ -8,7 +8,7 @@ job = "석사과정"
 phone = "02-2123-7624"
 room = "대기화학 연구실 / 과학관 701호"
 web = "https://atmchem.yonsei.ac.kr"
-weight = 40
+weight = 28
 +++
 
 #### 연구분야

@@ -8,7 +8,7 @@ job = "박사과정"
 phone = ""
 room = "기후이론 연구실 / 과학관 536A호"
 web = "https://ysctl.yonsei.ac.kr/"
-weight = 50
+weight = 67
 +++
 
 #### 연구분야
