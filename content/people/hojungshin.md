@@ -6,7 +6,7 @@ banner = "img/people/신호정.jpg"
 email = "@yonsei.ac.kr"
 job = "박사후연구원"
 phone = ""
-room = ""
+room = "미기상연구실/과학관 554A"
 web = ""
 weight = 6
 +++

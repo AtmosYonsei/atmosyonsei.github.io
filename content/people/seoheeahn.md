@@ -6,7 +6,7 @@ banner = "img/people/안서희.jpg"
 email = "@yonsei.ac.kr"
 job = "박사후연구원"
 phone = ""
-room = ""
+room = "경계층기상/환경연구실/과학관534호"
 web = ""
 weight = 7
 +++

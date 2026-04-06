@@ -6,7 +6,7 @@ banner = "img/people/마사루.jpg"
 email = "@yonsei.ac.kr"
 job = "박사후연구원"
 phone = ""
-room = ""
+room = "수리대기물리연구실/ 과학관529A호"
 web = ""
 weight = 40
 +++
