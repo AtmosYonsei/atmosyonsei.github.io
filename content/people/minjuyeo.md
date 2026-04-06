@@ -8,7 +8,7 @@ job = "연구교수"
 phone = " "
 room = "대기화학연구실 / 과학관 522B호"
 web = "http://atmchem.yonsei.ac.kr"
-weight = 30
+weight = 7
 +++
 
 #### 연구분야

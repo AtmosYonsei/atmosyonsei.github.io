@@ -8,7 +8,7 @@ job = "박사후연구원"
 phone = ""
 room = ""
 web = ""
-weight = 40
+weight = 7
 +++
 
 #### 연구분야

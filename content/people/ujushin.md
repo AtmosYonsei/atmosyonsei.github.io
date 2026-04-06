@@ -7,7 +7,7 @@ email = "shinuju@yonsei.ac.kr"
 job = "학술연구교수"
 phone = "02-2123-3872"
 room = "대기모형 연구실 / 과학관 536A호"
-weight = 30
+weight = 6
 web = "http://lamor.yonsei.ac.kr/"
 +++
 
