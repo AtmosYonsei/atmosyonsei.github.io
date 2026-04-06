@@ -2,7 +2,7 @@
 title  = "조윤재" 
 date   = "2026-04-01T01:00:00+09:00"
 teams  = ["staff"]
-banner = "img/people/조윤재.jpg"
+banner = "img/people/minkwangcho.jpg"
 email  = "mk_cho@yonsei.ac.kr"
 job    = "박사후연구원"
 phone  = "02-2123-4815"

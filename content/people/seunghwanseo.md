@@ -1,10 +1,10 @@
 +++
 title = "서승환"
 date = "2025-03-20T01:00:00+09:00"
-teams = ["graduate"]
+teams = ["staff"]
 banner = "img/people/seunghwanseo.jpg"
 email = "chemicdwarf@yonsei.ac.kr"
-job = "통합과정(박사)"
+job = "박사후연구원"
 phone = "02-2123-7617"
 room = "대기복사연구실 / 과학관 536A호"
 web = "https://atrad.yonsei.ac.kr"
