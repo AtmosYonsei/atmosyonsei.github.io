@@ -810,56 +810,67 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Validation and Improvement of Numerical Model Simulations of Secondary Inorganic Aerosols and their Precursors utilizing Satellite, Aircraft, and Ground-based Observations</td>
     <td class="tg-s8ju">김준</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">김동혁</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Enhancing microphysical consistency and reality in passive microwave radiative transfer simulations </td>
     <td class="tg-s8ju">신동빈</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">서승환</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Advancing NOx Emission Estimates Using Satellite Observations and Chemical Transport Models</td>
     <td class="tg-s8ju">김준</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">안다현</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Multi-Satellite Study of Air Quality: Identifying Trends and Influencing Factors</td>
     <td class="tg-s8ju">김준</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">김동철</td>
     <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">Development of Machine Learning-Based Cloud Classification Algorithms for Cloud Phase and Rainfall Estimation Using GEO-KOMPSAT-2A Observations</td>
     <td class="tg-s8ju">신동빈</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">김정원</td>
     <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">Improving Wind and Solar Energy Forecasts via Mesoscale Model Enhancements</td>
     <td class="tg-s8ju">홍진규</td>
-  </tr> 
+  </tr>
+   <tr>
     <td class="tg-s8ju">이주엽</td>
     <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">Analysis of Biophysical and Biochemical Effects on Future Surface Temperature Changes</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">곽경민</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Mechanisms of Air-Sea Heat and CO2 Fluxes: Case Studies in the North Pacific Using a Coupled Modeling Framework</td>
     <td class="tg-s8ju">송하준</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">성현민</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">A Composite Index-based Analysis for Future Extreme Heatwaves in East Asia and its relationship with Atmospheric Circulation</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">이동희</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Analysis on variation of hydrocarbons distribution in the Upper Troposphere and Lower Stratosphere (UTLS) according to wildfire characteristics based on satellite observation</td>
     <td class="tg-s8ju">구자호</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">조아진</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Impact of sea surface current on air-sea interaction</td>
     <td class="tg-s8ju">송하준</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">조윤재</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Evaluation of the effects of meteorological and air quality data assimilation on the predictability of air quality over the Korean Peninsula</td>
