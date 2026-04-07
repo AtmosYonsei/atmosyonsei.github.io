@@ -1264,21 +1264,25 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju"> 남극 융빙수가 대서양 자오면 순환과 심해 순환에 미치는 영향: 담수 유입 위치, 속도, 기간에 따른 민감도 분석</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">유다은</td>
     <td class="tg-s8ju">2026년2월</td>
     <td class="tg-s8ju">도플러 윈드 라읻 관측을활용한 해안가 바람∙난류 특성 분석 및 풍력자원평가</td>
     <td class="tg-s8ju">홍진구</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">안재형</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">딥러닝을 이용한 고해상도 폭염 예측</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">정희원</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">항공기 사고로 이어진 항공 난류 사례들의 발생 메커니즘 연구</td>
     <td class="tg-s8ju">전혜영</td>
   </tr>
+   <tr>
     <td class="tg-s8ju">채종천</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">GEMS 위성관측 자료 중심의 동아시아 지역 모델 독립적 하향식 NOx 및 CO2배출량 추정</td>
