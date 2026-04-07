@@ -63,6 +63,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">모형 물리 과정들에 대한 집중호우 모사의 민감도 연구</td>
     <td class="tg-s8ju">이태영</td>
   </tr>
+  </tr>
   <tr>
     <td class="tg-s8ju">박상훈</td>
     <td class="tg-s8ju">2001년 2월</td>
@@ -553,6 +554,8 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">임슬희</td>
     <td class="tg-s8ju">2010년 2월</td>
+    <td class="tg-s8ju"> 문준영</td>
+    <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">열대 동태평양 해양 불안정파(TIW)의 기후적 특성</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
@@ -1184,9 +1187,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">이나현</td>
     <td class="tg-s8ju">2023년 8월</td>
     <td class="tg-s8ju">위성산출물을 활용한 동남아시아 국가의 대기질 특성 파악</td>
-    <td class="tg-s8ju">구자호</td>
-  </tr>
-    <tr>
     <td class="tg-s8ju">나성균</td>
     <td class="tg-s8ju">2024년 2월</td>
     <td class="tg-s8ju">한반도 지표 미세먼지 농도의 일별 변동성 분석</td>
@@ -1246,6 +1246,45 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">외부 공기 유입에 의한 얕은 적운의 하위 영역 내 미세물리적 특성 영향에 관한 관측 연구</td>
     <td class="tg-s8ju">염성수</td>
   </tr>
+   <tr>
+    <td class="tg-s8ju">김예리</td>
+    <td class="tg-s8ju">2025년 8월</td>
+    <td class="tg-s8ju">위-지구온난화 접근법을 이용한 공유 사회경제적 경로에 따른 미래 동아시아 대기질 전망</td>
+    <td class="tg-s8ju">유영희</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju"> 권혁도</td>
+    <td class="tg-s8ju">2025년 8월</td>
+    <td class="tg-s8ju">MERRA-2를 활용한 남극 봄철 성층권 오존과 기상 조건의 상관성의 시공간적특성 분석</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju"> 문준영</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju"> 남극 융빙수가 대서양 자오면 순환과 심해 순환에 미치는 영향: 담수 유입 위치, 속도, 기간에 따른 민감도 분석</td>
+    <td class="tg-s8ju">안순일</td>
+  </tr>
+    <td class="tg-s8ju">유다은</td>
+    <td class="tg-s8ju">2026년2월</td>
+    <td class="tg-s8ju">도플러 윈드 라읻 관측을활용한 해안가 바람∙난류 특성 분석 및 풍력자원평가</td>
+    <td class="tg-s8ju">홍진구</td>
+  </tr>
+    <td class="tg-s8ju">안재형</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju">딥러닝을 이용한 고해상도 폭염 예측</td>
+    <td class="tg-s8ju">홍진규</td>
+  </tr>
+    <td class="tg-s8ju">정희원</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju">항공기 사고로 이어진 항공 난류 사례들의 발생 메커니즘 연구</td>
+    <td class="tg-s8ju">전혜영</td>
+  </tr>
+    <td class="tg-s8ju">채종천</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju">GEMS 위성관측 자료 중심의 동아시아 지역 모델 독립적 하향식 NOx 및 CO2배출량 추정</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>
+
 
 
 </table></div>
