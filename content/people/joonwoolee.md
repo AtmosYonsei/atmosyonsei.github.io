@@ -8,7 +8,7 @@ job = "통합과정"
 phone = "02-2123-7608"
 room = "대기해양모델링연구실 / 과학관 532호"
 web = "http://airsea.yonsei.ac.kr"
-weight = 42
+weight = 38
 +++
 
 #### 연구분야
