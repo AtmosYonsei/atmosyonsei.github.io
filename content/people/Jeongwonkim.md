@@ -8,7 +8,7 @@ job = "박사과정"
 phone = "02-2123-5680"
 room = "미기상연구실/ 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
-weight = 64
+weight = 52
 +++
 
 #### 연구분야
