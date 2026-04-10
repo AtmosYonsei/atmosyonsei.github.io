@@ -18,7 +18,7 @@ icon = "microphone"
 <br>
 <br>
 
-<img src="/files/세미나포스터_김영하 박사님.png" width="95%">
+<img src="/files/세미나포스터_김영하박사님.png" width="95%">
 
 
 <br><br>
