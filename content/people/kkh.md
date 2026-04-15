@@ -8,7 +8,7 @@ job    = "석사과정"
 phone  = "02-2123-7619"
 room   = "경계층기상/환경연구실 / 과학관 534호"
 web    = "https://blme.yonsei.ac.kr/"
-weight = 12
+weight = 10
 +++
 
 #### 연구분야
