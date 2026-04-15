@@ -5,10 +5,10 @@ teams = ["graduate"]
 banner = "img/people/kangwook.jpg"
 email = "kangwook911@yonsei.ac.kr"
 job = "통합과정(석사)"
-phone = "010-4074-7060"
+phone = "02-2123-7616"
 room = "대기복사 연구실 / 과학관 531호"
 web = "http://atrad.yonsei.ac.kr/main.php"
-weight = 30
+weight = 20
 +++
 
 #### 연구분야

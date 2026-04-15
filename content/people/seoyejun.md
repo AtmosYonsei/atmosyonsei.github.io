@@ -4,11 +4,11 @@ date   = "2024-09-02T01:00:00+09:00"
 teams  = ["graduate"]
 banner = "img/people/seoyejun.jpg"
 email  = "yejunseo@yonsei.ac.kr"
-job    = "석사과정"
+job    = "석박통합과정(석사)"
 phone  = "02-2123-7616"
 room   = "대기복사연구실/ 과학관 531호"
 web    = "http://atrad.yonsei.ac.kr/"
-weight = 12
+weight = 20
 +++
 
 #### 연구분야

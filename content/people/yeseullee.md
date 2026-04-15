@@ -8,7 +8,7 @@ job = "박사과정"
 phone = "02-2123-7643"
 room = "대기역학 연구실 / 과학관 533A호"
 web = "http://atmosdyn.yonsei.ac.kr/"
-weight = 61
+weight = 30
 +++
 
 #### 연구분야
@@ -22,3 +22,4 @@ weight = 61
 
 #### 논문
  + Lee, Y. S., Chun, H. Y., & Ko, H. C. (2023). Lower tropospheric states revealed in high vertical-resolution radiosonde data in Korea and synoptic patterns for instability based on a self-organizing map. Atmospheric Research, 295, 107037.
+ + Lee, Y.-S. and H.-Y. Chun, 2025: Machine Learning Application and    Operational Strategy for Global Low-Level Aviation Turbulence Forecasting. npj Climate and Atmospheric Science
