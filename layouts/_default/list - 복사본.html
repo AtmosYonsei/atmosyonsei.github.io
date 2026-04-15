@@ -41,8 +41,7 @@
                         <section class="post">
                         <!--div class="row equal"-->
                         <div class="row center-block">
-                        {{ $sorted := sort .Data.Pages ".Params.weight" ".Title" }}
-                        {{ $paginator := (.Paginate $sorted) }}
+                        {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
                             <div class="col-sm-3">
                                 <div class="team-member">
