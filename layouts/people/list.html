@@ -1,0 +1,18 @@
+{{ partial "headers.html" . }} 
+{{ partial "custom_headers.html" . }}
+{{ partial "nav.html" . }} 
+{{ partial "breadcrumbs.html" . }}
+
+{{ $pages := sort .RegularPages ".Params.weight" ".Title" }}
+
+{{ range $pages }}
+  <div>
+    <strong>{{ .Title }}</strong><br>
+    {{ .Params.job }}<br>
+    {{ .Params.email }}<br>
+  </div>
+  <hr>
+{{ end }}
+
+{{ partial "footer.html" . }}
+{{ partial "scripts.html" . }}
