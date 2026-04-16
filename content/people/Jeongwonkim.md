@@ -1,14 +1,14 @@
 ﻿+++
 title = "김정원"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["graduate"]
+teams = ["staff"]
 banner = "img/people/jeongwonkim.JPG"
 email = "kimjw3855@yonsei.ac.kr"
-job = "박사과정"
+job = "박사후연구원"
 phone = "02-2123-5680"
 room = "미기상연구실/ 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
-weight = 40
+weight = 3
 +++
 
 #### 연구분야

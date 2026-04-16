@@ -8,7 +8,7 @@ job    = "석사과정"
 phone  = ""
 room   = "수리대기물리 연구실 / 과학관 529A호"
 web    = "https://mapl.yonsei.ac.kr/index.html"
-weight = 10
+weight = 3
 +++
 
 #### 연구분야
