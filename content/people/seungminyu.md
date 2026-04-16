@@ -8,7 +8,7 @@ job = "박사과정"
 phone = "02-2123-3872"
 room = "대기모형연구실 / 과학관 536B호"
 web = "https://lamor.yonsei.ac.kr"
-weight = 40
+weight = 77
 +++
 
 #### 연구분야

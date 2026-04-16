@@ -8,7 +8,7 @@ job = "통합과정"
 phone = "02-2123-4815"
 room = "대기예측성 및 자료동화 연구실 / 과학관 530 B호"
 web = "https://apdal.yonsei.ac.kr"
-weight = 20
+weight = 41
 +++
 
 #### 연구분야
