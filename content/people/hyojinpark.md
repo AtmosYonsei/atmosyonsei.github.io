@@ -2,7 +2,7 @@
 title = "박효진"
 date = "2026-04-02"
 teams = ["graduate"]
-banner = "img/people/hyojinpark.jpg"
+banner = "img/people/박효진_박사과정.jpg"
 email = "hjpark1021@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
@@ -20,8 +20,12 @@ weight = 72
  + **B.Sc** (2022) in Atmospheric Sciences and Applied Statistics, Yonsei University, Seoul, Korea
 
 #### 수상내역
+ + (2026.01) Merit Academic Paper Award, Yonsei University
+ + (2025.01) Excellent Academic Paper Award, Yonsei University
 
 #### 논문
++ H.-J. Park, S.-I. An, J.-H. Park, Y.-M Yang, S.-K Kim (2025) Sub-seasonal impact of El Niño–Southern Oscillation on development of the Indian Ocean Dipole, Commun Earth Environ 6, 374. https://doi.org/10.1038/s43247-025-02302-4
++ H.-J. Park, S.-I. An, J.-H. Park, C. Liu (2025) Unraveling the interactions between tropical Indo-Pacific climate modes using a simple model framework, npj Clim Atmos Sci 8, 336. https://doi.org/10.1038/s41612-025-01217-3
 + C. Liu, S.-I. An, S.-K. Kim, M. F. Stuecker, W. Zhang, F.-F. Jin, J.-H. Park, L. Jiang, A. Xue, X. Geng, H.-J. Park, Y.-M. Yang, J.-S. Kug (2024) Synchronous decadal climate variability in the tropical Central Pacific and tropical South Atlantic, npj Climate and Atmospheric Science, 7, 253. https://doi.org/10.1038/s41612-024-00806-y
 + J.-H. Park, Y.-M.Yang, Y.-G. Ham, H.-S. Jo, H.-J. Park, S.-E. Park, C. Liu, G.Mandal, S.-I. An, J.-S. Kug (2024) significant winter Atlantic Nino effect on ENSO and its future projection, npj Climate and Atmospheric Science, 7, 238. https://doi.org/10.1038/s41612-024-00790-3
 + H.-J. Park, S.-I. An, J.-H. Park, M.F. Stuecker, C.Liu, S.-W. Yeh (2024) Local feedback and ENSO govern decadal changes in variability and seasonal synchronization of the Indian Ocean Dipole, Communications Earth and Environment 5,357. https://doi.org/10.1038/s43247-024-01525-1
