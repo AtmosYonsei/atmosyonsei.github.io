@@ -1,5 +1,5 @@
 ﻿+++
-title = "[세미나] "
+title = "[세미나] 연세대-서울대 대기과학 공동 세미나"
 date = "2026-04-24"
 categories = ["세미나"]
 banner = "img/placeholder.png"
