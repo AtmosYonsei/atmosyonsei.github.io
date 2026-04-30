@@ -18,7 +18,7 @@ icon = "microphone"
 <br>
 <br>
 
-<img src="/files/2026_연세대_서울대_공동세미나_포스터.png" width="95%">
+<img src="/files/2026_공동세미나_포스터_오타수정.png" width="95%">
 
 
 <br><br>
