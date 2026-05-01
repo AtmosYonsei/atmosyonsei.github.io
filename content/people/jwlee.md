@@ -8,7 +8,7 @@ job = "객원교수"
 phone = " "
 room = "기후모형 공동 실험실 / 과학관 554A호"
 web = " "
-weight = 40
+weight = 24
 +++
 
 #### 연구분야

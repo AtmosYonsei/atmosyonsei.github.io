@@ -8,7 +8,7 @@ job = "박사후연구원"
 phone = ""
 room = "미기상연구실/과학관 554A"
 web = ""
-weight = 6
+weight = 25
 +++
 
 #### 연구분야
