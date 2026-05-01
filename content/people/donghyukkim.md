@@ -1,10 +1,10 @@
 +++
 title = "김동혁"
 date = "2026-04-01T01:00:00+09:00"
-teams = ["staff"]
+teams = ["graduate"]
 banner = "img/people/donghyukkim.png"
 email = "donghyuk95@yonsei.ac.kr"
-job = "박사후연구원"
+job = "박사과정"
 phone = "02-2123-7608"
 room = "대기해양모델링연구실 / 과학관 532호"
 web = "http://airsea.yonsei.ac.kr"
