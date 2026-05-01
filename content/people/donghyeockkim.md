@@ -8,7 +8,7 @@ job = "박사후연구원"
 phone = "-"
 room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
-weight = 5
+weight = 25
 +++
 
 #### 연구분야

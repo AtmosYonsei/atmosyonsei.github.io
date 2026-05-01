@@ -8,7 +8,7 @@ job = "객원교수"
 phone = ""
 room = "과학관 554A"
 web = ""
-weight = 5
+weight = 24
 +++
 
 #### 연구분야
