@@ -8,7 +8,7 @@ job = "연구교수"
 phone = ""
 room = "기후이론연구실 / 과학관 606호"
 web = " https://sites.google.com/view/jungchoi/"
-weight = 40
+weight = 12
 +++
 
 #### 연구분야
