@@ -8,7 +8,7 @@ job = "특임교수"
 phone = ""
 room = ""
 web = ""
-weight = 7
+weight = 21
 +++
 
 #### 연구분야

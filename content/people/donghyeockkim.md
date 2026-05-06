@@ -1,14 +1,14 @@
 ﻿+++
 title = "김동혁"
 date = "2024-03-18T01:00:00+09:00"
-teams = ["graduate"]
+teams = ["staff"]
 banner = "img/people/donghyeockkim.jpg"
 email = "kimbab1111@yonsei.ac.kr"
-job = "통합과정"
+job = "박사후연구원"
 phone = "-"
 room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
-weight = 32
+weight = 25
 +++
 
 #### 연구분야
