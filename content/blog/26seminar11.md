@@ -1,6 +1,6 @@
 ﻿+++
 title = "[세미나] 감호식 박사님"
-date = "2026-05-19"
+date = "2026-05-15"
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
