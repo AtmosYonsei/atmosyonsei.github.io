@@ -1,6 +1,6 @@
 ﻿+++
 title = "[세미나] Prof. Noboru Nakamura"
-date = "2026-06-02"
+date = "2026-05-29"
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
