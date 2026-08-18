@@ -9,7 +9,7 @@ icon = "microphone"
 <br>
 #### 장원 교수님 (University of Cincinnati)
 #### 2018년 7월 11일 (수) 15:00
-#### 과학관 553호
+#### 과학관 553호  
 <br>
 #### Abstract
 
