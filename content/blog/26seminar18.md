@@ -1,6 +1,6 @@
 ﻿+++
 title = "[세미나] 김효정 박사님"
-date = "2026-09-01"
+date = "2026-08-27"
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
