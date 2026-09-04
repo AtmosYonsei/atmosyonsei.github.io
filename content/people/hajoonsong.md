@@ -8,7 +8,7 @@ room = "대기해양모델링 연구실, 과학관 544호"
 teams = ["faculty"]
 title = "송하준"
 web = "https://hajsong.github.io"
-weight = 11
+weight = 8
 
 +++
 #### 연구분야

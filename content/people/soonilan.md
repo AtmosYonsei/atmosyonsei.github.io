@@ -6,9 +6,9 @@ banner = "img/people/soonilan2.png"
 email = "sian@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5684"
-room = "기후이론 연구실 / 과학관 538호, 첨단관 307A호"
+room = "기후이론 연구실 / 과학관 538호"
 web = "https://ysctl.yonsei.ac.kr/"
-weight = 6
+weight = 4
 +++
 
 #### 연구분야
