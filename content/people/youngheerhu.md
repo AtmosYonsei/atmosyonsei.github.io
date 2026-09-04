@@ -7,7 +7,7 @@ email = "yhryu@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5699"
 room = "경계층기상/환경 연구실 / 과학관 540호"
-weight = 14
+weight = 11
 web = "https://blme.yonsei.ac.kr"
 +++
 

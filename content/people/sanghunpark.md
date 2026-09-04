@@ -7,7 +7,7 @@ email = "pshun@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5686"
 room = "대기모형 연구실 / 과학관 537호"
-weight = 10
+weight = 7
 web = "http://lamor.yonsei.ac.kr/"
 +++
 

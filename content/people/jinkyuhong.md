@@ -8,7 +8,7 @@ room = "미기상 연구실 / 과학관 542호"
 teams = ["faculty"]
 title = "홍진규"
 web = "https://eapl.yonsei.ac.kr"
-weight = 8
+weight = 6
 
 +++
 #### 연구분야

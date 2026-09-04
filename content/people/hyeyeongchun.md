@@ -8,7 +8,7 @@ room = "대기역학 연구실 / 과학관 543호"
 teams = ["faculty"]
 title = "전혜영"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 2
+weight = 1
 
 +++
 #### 연구분야
