@@ -141,7 +141,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">Xing Yu</td>
     <td class="tg-s8ju">2010년 8월</td>
-    <td class="tg-s8ju">한반도 집중호우 사례의고해상도 수치모사에서 나타나는 <br>
+    <td class="tg-s8ju">한반도 집중호우 사례의 고해상도 수치모사에서 나타나는 <br>
                         Kain-Fritsch 적운모수화 방안의 영향</td>
     <td class="tg-s8ju">이태영</td>
   </tr>
@@ -332,7 +332,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">차주완</td>
     <td class="tg-s8ju">2014년 2월</td>
     <td class="tg-s8ju">Characteristics of hydrometeors and vertical profiles of<br>
-                        precipitation at amountain and a coastal site in Korea <br>
+                        precipitation at a mountain and a coastal site in Korea <br>
                         observed by ground-based measurements</td>
     <td class="tg-s8ju">염성수</td>
   </tr>
@@ -532,7 +532,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">박민수</td>
     <td class="tg-s8ju">2018년 8월</td>
-    <td class="tg-s8ju">Physical characteristiccs of the aerosols and cloud <br>
+    <td class="tg-s8ju">Physical characteristics of the aerosols and cloud <br>
                         condensation nuclei obtained from ship and airborne  <br>
                         measurements in and around the Korean Peninsula</td>
     <td class="tg-s8ju">염성수</td>
@@ -561,14 +561,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">이준홍</td>
     <td class="tg-s8ju">2019년 2월</td>
-    <td class="tg-s8ju">The Representatinos of Vegetation for Surface Wind <br>
+    <td class="tg-s8ju">The Representations of Vegetation for Surface Wind <br>
                         in the WRF Model</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
     <td class="tg-s8ju">홍제우</td>
     <td class="tg-s8ju">2019년 2월</td>
-    <td class="tg-s8ju">Characteristics of Urban Land-Atmosphere Interactinos <br>
+    <td class="tg-s8ju">Characteristics of Urban Land-Atmosphere Interactions <br>
                         in Monsoon East Asia</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
@@ -599,7 +599,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">고수정</td>
     <td class="tg-s8ju">2020년 2월</td>
-    <td class="tg-s8ju">Improved Retrieval of Aerosol Optical Properties form <br>
+    <td class="tg-s8ju">Improved Retrieval of Aerosol Optical Properties from <br>
                         Geostationary Environment Monitoring Spectrometer:    <br>
                         Aerosol Model Improvement and Synergetic use of       <br>
                         Broadband Meteorological Imager </td>          
@@ -760,6 +760,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
      <td class="tg-s8ju">노의근</td>
   </tr>  
   <tr>
+    <td class="tg-s8ju">송병권</td>
+    <td class="tg-s8ju">2023년 2월</td>
+    <td class="tg-s8ju">A Study on Winds and Gravity Waves in the Mesosphere and Lower Thermosphere Using Meteor Radar Observations at King Sejong Station, Antarctica</td>
+    <td class="tg-s8ju">전혜영</td>
+  </tr>    
+  <tr>
     <td class="tg-s8ju">김지섭</td>
     <td class="tg-s8ju">2023년 8월</td>
     <td class="tg-s8ju">Improving the representation of ice hydrometeors <br>
@@ -767,12 +773,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
 					through microphysics-consistent modeling</td>
     <td class="tg-s8ju">신동빈</td>
   </tr>
-  <tr>
-    <td class="tg-s8ju">송병권</td>
-    <td class="tg-s8ju">2023년 2월</td>
-    <td class="tg-s8ju">A Study on Winds and Gravity Waves in the Mesosphere and Lower Thermosphere Using Meteor Radar Observations at King Sejong Station, Antarctica</td>
-    <td class="tg-s8ju">전혜영</td>
-  </tr>    
   <tr>
     <td class="tg-s8ju">라인엽</td>
     <td class="tg-s8ju">2024년 2월</td>
@@ -783,8 +783,8 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">조예슬</td>
     <td class="tg-s8ju">2024년 2월</td>
-    <td class="tg-s8ju">Retrieval algorithm for GEMS aerosol optical properties: Improvemnet, validation and post-processing</td>
-    <td class="tg-s8ju">김 준</td>
+    <td class="tg-s8ju">Retrieval algorithm for GEMS aerosol optical properties: Improvement, validation and post-processing</td>
+    <td class="tg-s8ju">김준</td>
   </tr>
   <tr>
     <td class="tg-s8ju">허은숙</td>
@@ -811,24 +811,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">김준</td>
   </tr>
    <tr>
-    <td class="tg-s8ju">김동혁</td>
-    <td class="tg-s8ju">2026년 2월</td>
-    <td class="tg-s8ju">Enhancing microphysical consistency and reality in passive microwave radiative transfer simulations </td>
-    <td class="tg-s8ju">신동빈</td>
-  </tr>
-   <tr>
-    <td class="tg-s8ju">서승환</td>
-    <td class="tg-s8ju">2026년 2월</td>
-    <td class="tg-s8ju">Advancing NOx Emission Estimates Using Satellite Observations and Chemical Transport Models</td>
-    <td class="tg-s8ju">김준</td>
-  </tr>
-   <tr>
-    <td class="tg-s8ju">안다현</td>
-    <td class="tg-s8ju">2026년 2월</td>
-    <td class="tg-s8ju">Multi-Satellite Study of Air Quality: Identifying Trends and Influencing Factors</td>
-    <td class="tg-s8ju">김준</td>
-  </tr>
-   <tr>
     <td class="tg-s8ju">김동철</td>
     <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">Development of Machine Learning-Based Cloud Classification Algorithms for Cloud Phase and Rainfall Estimation Using GEO-KOMPSAT-2A Observations</td>
@@ -845,6 +827,24 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">Analysis of Biophysical and Biochemical Effects on Future Surface Temperature Changes</td>
     <td class="tg-s8ju">홍진규</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju">김동혁</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju">Enhancing microphysical consistency and reality in passive microwave radiative transfer simulations </td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju">서승환</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju">Advancing NOx Emission Estimates Using Satellite Observations and Chemical Transport Models</td>
+    <td class="tg-s8ju">김준</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju">안다현</td>
+    <td class="tg-s8ju">2026년 2월</td>
+    <td class="tg-s8ju">Multi-Satellite Study of Air Quality: Identifying Trends and Influencing Factors</td>
+    <td class="tg-s8ju">김준</td>
   </tr>
    <tr>
     <td class="tg-s8ju">곽경민</td>
@@ -874,6 +874,18 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">조윤재</td>
     <td class="tg-s8ju">2026년 2월</td>
     <td class="tg-s8ju">Evaluation of the effects of meteorological and air quality data assimilation on the predictability of air quality over the Korean Peninsula</td>
+    <td class="tg-s8ju">김현미</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju">이태경</td>
+    <td class="tg-s8ju">2026년 8월</td>
+    <td class="tg-s8ju">Diagnosis of CMIP6 Air Quality Simulations over East Asia and Future Projections</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>
+   <tr>
+    <td class="tg-s8ju">서민경</td>
+    <td class="tg-s8ju">2026년 8월</td>
+    <td class="tg-s8ju">Development and evaluation of ensemble-based data assimilation and inverse modeling systems for estimating atmospheric CO2 concentrations and surface CO2 fluxes in East Asia</td>
     <td class="tg-s8ju">김현미</td>
   </tr>
 

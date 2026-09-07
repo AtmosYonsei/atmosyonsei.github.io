@@ -63,7 +63,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">모형 물리 과정들에 대한 집중호우 모사의 민감도 연구</td>
     <td class="tg-s8ju">이태영</td>
   </tr>
-  </tr>
   <tr>
     <td class="tg-s8ju">박상훈</td>
     <td class="tg-s8ju">2001년 2월</td>
@@ -324,7 +323,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">윤종민</td>
     <td class="tg-s8ju">2006년 8월</td>
     <td class="tg-s8ju">Effects of atmospheric and surface properties on the <br>
-                        retrieval of AOD from geostationary satellite: : 정지 <br>
+                        retrieval of AOD from geostationary satellite: 정지 <br>
                         궤도 위성을 이용한 에어러솔 광학 깊이 산출에 대기 광학 효과와<br>
                         지표 특성이 미치는 영향</td>
     <td class="tg-s8ju">김준</td>
@@ -358,7 +357,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">정연진</td>
     <td class="tg-s8ju">2007년 8월</td>
-    <td class="tg-s8ju">남극 세종기지에서의 최근 태양 및 지구 복사 변화: : Recent <br>
+    <td class="tg-s8ju">남극 세종기지에서의 최근 태양 및 지구 복사 변화: Recent <br>
                         changes in solar and terrestrial irradiance at King <br>
                         Sejong Station, Antarctica</td>
     <td class="tg-s8ju">김준</td>
@@ -388,7 +387,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">김윤미</td>
     <td class="tg-s8ju">2008년 2월</td>
     <td class="tg-s8ju">구름과 에어러솔을 고려한 대기 광학 깊이에 따른 태양 지표 <br>
-                        복사의 변화: : The dependence of the surface solar <br>
+                        복사의 변화: The dependence of the surface solar <br>
                         irradiance on atmospheric optical depth of cloud and <br>
                         aerosol</td>
     <td class="tg-s8ju">김준</td>
@@ -554,8 +553,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">임슬희</td>
     <td class="tg-s8ju">2010년 2월</td>
-    <td class="tg-s8ju"> 문준영</td>
-    <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">열대 동태평양 해양 불안정파(TIW)의 기후적 특성</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
@@ -689,7 +686,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">이정화</td>
     <td class="tg-s8ju">2012년 8월</td>
     <td class="tg-s8ju">Effects of Turbulence on Microphysics of a Warm Cloud <br>
-                        simulatied by a new lagrangian cloud model </td>
+                        simulated by a new lagrangian cloud model </td>
     <td class="tg-s8ju">노의근</td>
   </tr>
   <tr>
@@ -865,7 +862,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">신소정</td>
     <td class="tg-s8ju">2016년 2월</td>
     <td class="tg-s8ju">interdecadal variations in the linkage of North Pacific <br>
-                        Oscillation and Pacfic Meridional Mode</td>
+                        Oscillation and Pacific Meridional Mode</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
   <tr>
@@ -1187,6 +1184,9 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">이나현</td>
     <td class="tg-s8ju">2023년 8월</td>
     <td class="tg-s8ju">위성산출물을 활용한 동남아시아 국가의 대기질 특성 파악</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">나성균</td>
     <td class="tg-s8ju">2024년 2월</td>
     <td class="tg-s8ju">한반도 지표 미세먼지 농도의 일별 변동성 분석</td>
@@ -1201,7 +1201,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">최현의</td>
     <td class="tg-s8ju">2024년 2월</td>
-    <td class="tg-s8ju">A Surface Energy Budget Framework To Examine Abrupt Winter Artic Sea Ice Changes in a CO2 Removal Experiment</td>
+    <td class="tg-s8ju">A Surface Energy Budget Framework To Examine Abrupt Winter Arctic Sea Ice Changes in a CO2 Removal Experiment</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
   <tr>
@@ -1253,22 +1253,22 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">유영희</td>
   </tr>
    <tr>
-    <td class="tg-s8ju"> 권혁도</td>
+    <td class="tg-s8ju">권혁도</td>
     <td class="tg-s8ju">2025년 8월</td>
     <td class="tg-s8ju">MERRA-2를 활용한 남극 봄철 성층권 오존과 기상 조건의 상관성의 시공간적특성 분석</td>
     <td class="tg-s8ju">구자호</td>
   </tr>
    <tr>
-    <td class="tg-s8ju"> 문준영</td>
+    <td class="tg-s8ju">문준영</td>
     <td class="tg-s8ju">2026년 2월</td>
-    <td class="tg-s8ju"> 남극 융빙수가 대서양 자오면 순환과 심해 순환에 미치는 영향: 담수 유입 위치, 속도, 기간에 따른 민감도 분석</td>
+    <td class="tg-s8ju">남극 융빙수가 대서양 자오면 순환과 심해 순환에 미치는 영향: 담수 유입 위치, 속도, 기간에 따른 민감도 분석</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
    <tr>
     <td class="tg-s8ju">유다은</td>
     <td class="tg-s8ju">2026년2월</td>
-    <td class="tg-s8ju">도플러 윈드 라읻 관측을활용한 해안가 바람∙난류 특성 분석 및 풍력자원평가</td>
-    <td class="tg-s8ju">홍진구</td>
+    <td class="tg-s8ju">도플러 윈드 라이다 관측을 활용한 해안가 바람∙난류 특성 분석 및 풍력자원평가</td>
+    <td class="tg-s8ju">홍진규</td>
   </tr>
    <tr>
     <td class="tg-s8ju">안재형</td>
@@ -1288,6 +1288,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">GEMS 위성관측 자료 중심의 동아시아 지역 모델 독립적 하향식 NOx 및 CO2배출량 추정</td>
     <td class="tg-s8ju">구자호</td>
   </tr>
+   <tr>
+    <td class="tg-s8ju">박감람</td>
+    <td class="tg-s8ju">2026년 8월</td>
+    <td class="tg-s8ju">겨울철 성층권 돌연승온과 강한 극 소용돌이에 따른 북극 진동과 북반구 환형 모드의 변화 분석</td>
+    <td class="tg-s8ju">송인선</td>
+  </tr>
+
 
 
 
