@@ -40,6 +40,9 @@ weight = 3
 + 예측가능성론
 
 #### 논문
++ Seo, M.-G., H. M. Kim, and S.-I. An, 2025: Effects of El Niño-induced climate change on CO2 concentrations and the carbon cycle in East Asia. npj Climate and Atmospheric Science, 8, 361, https://doi.org/10.1038/s41612-025-01237-z. 
++ Cho, Y., H. M. Kim, M.-G. Seo, and D.-H. Kim, 2025: Effects of chemical and meteorological data assimilation on air-quality and meteorological forecasts in the Korean Peninsula. Science of the Total Environment, 990, 179842, https://doi.org/10.1016/j.scitotenv.2025.179842. 
++ Seo, M.-G., and H. M. Kim, 2025: Evaluation of high-resolution regional CO2 data assimilation-forecast system in East Asia using observing system simulation experiment and effect of observation network on simulated CO2 concentrations. Quarterly Journal of the Royal Meteorological Society, 151, e4987, https://doi.org/10.1002/qj.4987.
 + Cho, Y., H. M. Kim, and M.-G. Seo, 2025: A comparison of CO2 emissions from the national greenhouse gases inventory report with CO2 emissions from the global inverse models and the regional WRF-Chem in the Korean Peninsula. Mitigation and Adaptation Strategies for Global Change, 30, 1-24, https://doi.org/10.1007/s11027-024-10195-5.
 + Kim, D.-H., and H. M. Kim, 2024: Adjoint-based observation impact on meteorological forecast errors in the Arctic. Quarterly Journal of the Royal Meteorological Society, 150, 5403-5421, https://doi.org/10.1002/qj.4876.
 + Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: High-resolution atmospheric CO2 concentration data simulated in WRF-Chem over East Asia for 10 years. Geoscience Data Journal, 11, 1024-1043, https://doi.org/10.1002/gdj3.273.
