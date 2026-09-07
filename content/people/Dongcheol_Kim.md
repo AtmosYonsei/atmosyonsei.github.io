@@ -20,10 +20,9 @@ weight = 11
 + **M.Sc** (2016) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ., Gangneung, Korea
 + **B.Sc** (2014) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea
 
-
-
 #### 수상내역
-2014, 디지털카메라로 촬영된 월면사진을 활용한 야간의 대기광학특성 추정 대한원격탐사학회 우수논문발표상
++ 2014, 디지털카메라로 촬영된 월면사진을 활용한 야간의 대기광학특성 추정 대한원격탐사학회 우수논문발표상
 
 #### 논문
-Kim and Jeong (2016), Derivations of Surface Solar Radiation from Polar Orbiting Satellite Observations, Korean Journal of Remote Sensing, Vol.32, No.3, 2016, pp.201~220
++ Kim and Jeong (2016), Derivations of Surface Solar Radiation from Polar Orbiting Satellite Observations, Korean Journal of Remote Sensing, Vol.32, No.3, 2016, pp.201~220
+
