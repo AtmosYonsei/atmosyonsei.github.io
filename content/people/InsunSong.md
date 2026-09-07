@@ -37,6 +37,11 @@ web = "https://mapl.yonsei.ac.kr"
 + 유체불안정성론
 
 #### 논문
++ Song, B.-G., **Song, I.-S.**, Kogure, M., Jee, G., Kim, J.-H., Lee, C., et al. (2026). Mesospheric and lower thermospheric responses to the May 2024 geomagnetic storm in the Antarctic Peninsula. Geophysical Research Letters, 53, e2025GL120646. https://doi.org/10.1029/2025GL120646
++ Kogure, M., **Song, I. S.**, Liu, H., & Liu, H. L. (2026). Impacts of increasing CO2 on diurnal migrating tide in the equatorial lower thermosphere. Atmospheric Chemistry and Physics, 26(1), 665-680.
++ Kogure, M., **Song, I. S.**, Song, B. G., Liu, H., Nishioka, M., Perwitasari, S., ... & Hong, J. (2025). Medium-Scale Traveling Ionospheric Disturbances Induced by Secondary Gravity Waves Associated with Record-Breaking Heavy Rainfall in August 2021 over Kyushu, Japan.
++ Song, B.-G.,** Song, I.-S.**, & Lee, H.-I. (2025). Downstream amplification of Rossby waves in summertime heavy precipitation events over the Korean Peninsula. Geophysical Research Letters, 52, e2025GL117678. https://doi.org/10.1029/2025GL117678
++ Jee, G., Shim, J. S., **Song, I. S.**, Kwak, Y. S., Tsagouri, I., Goncharenko, L., ... & Fuller‐Rowell, T. J. (2025). Assessment of current capabilities in modeling the ionospheric climatology for space weather applications: FoF2 and hmF2‐II. Space Weather, 23(6), e2024SW004166.
 + Lee, W., **Song, I. S.**, Shim, J. S., Liu, G., & Jee, G. (2024). The impact of lower atmosphere forecast uncertainties on WACCM‐X prediction of ionosphere‐thermosphere system during geomagnetic storms. Space Weather, 22(12), e2024SW004137.
 + Yoo, J. H., Chun, H. Y., & **Song, I. S.** (2024). In-Situ Generation of Planetary Waves in the Mesosphere by Zonally Asymmetric Gravity Wave Drag: A Revisit. Journal of the Atmospheric Sciences.(accepted)
 + Lee, W., **Song, I. S.**, Song, B. G., & Kim, Y. H. (2024). Quasi-10 d wave activity in the southern high-latitude mesosphere and lower thermosphere (MLT) region and its relation to large-scale instability and gravity wave drag. Atmospheric Chemistry and Physics, 24(6), 3559-3575.
