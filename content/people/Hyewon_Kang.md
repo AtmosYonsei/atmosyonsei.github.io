@@ -15,7 +15,7 @@ weight = 2
 + CMIP6 기후 모델을 이용한 K-ACE2 동아시아 대기질 평가 및 예측
 
 #### 학력
-+ B.Sc. in Earth and Environmental Sciences, Jeonbuk National University, Jeonju, Korea
++ **B.Sc.** in Earth and Environmental Sciences, Jeonbuk National University, Jeonju, Korea
 
 #### 수상내역
 
