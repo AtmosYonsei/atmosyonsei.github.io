@@ -8,12 +8,13 @@ job = "퇴임교수(2001~2025)"
 phone = "02-2123-5681"
 room = "구름물리 연구실 / 과학관 547호"
 web = "http://cloud.yonsei.ac.kr/"
-weight = 3
+weight = 1
 +++
 
 #### 연구분야
 + 구름물리학
 + 구름관측 및 수치모형연구
++ Cloud seeding experiment
 
 #### 학력
 + **Ph.D.** (1998) Univ. of Nevada, Reno, USA

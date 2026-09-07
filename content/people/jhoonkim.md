@@ -55,12 +55,12 @@ weight = 2
 + 환경원격탐사
 
 #### 논문
+
 + Ren, Y., Oxford, C.R., Zhang, D., ..., J. Kim et al. (2025) Black carbon emissions generally underestimated in the global south as revealed by globally distributed measurements. Nature Communications, 16, 7010. https://doi.org/10.1038/s41467-025-62468-5
 + Kim, J., and Coauthors, 2020: New Era of Air Quality Monitoring from Space: Geostationary Environment Monitoring Spectrometer (GEMS). BAMS, 101, E1–E22, https://doi.org/10.1175/BAMS-D-18-0013.1.
-+ Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
 + Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
++ Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
 + Jeong, Ukkyo, Jhoon Kim, Hanlim Lee, Yun Gon Lee (2017), Assessing the effect of long-range pollutant transport on air quality in Seoul using the conditional potential source contribution function method, Atmospheric Environment, 150, 33-44, doi: 10.1016/j.atmosenv.2016.11.017.
 + Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
 + Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.
 + 외 논문 다수 (http://atrad.yonsei.ac.kr/bbs/board.php?tbl=bbs31)
-
