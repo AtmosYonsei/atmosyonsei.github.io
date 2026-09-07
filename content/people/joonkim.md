@@ -7,7 +7,7 @@ job = "퇴임교수(1995 ~ 2011)"
 email = "joon@snu.ac.kr"
 room = "현 서울대 조경.지역시스템공학부"
 web = "http://cssl.snu.ac.kr"
-weight = 15
+weight = 5
 +++
 
 #### 학력

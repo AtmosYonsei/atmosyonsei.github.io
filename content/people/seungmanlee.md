@@ -5,7 +5,7 @@ teams = ["퇴임교수"]
 banner = "img/people/seungmanlee.jpg"
 email = ""
 job = "정년퇴임교수(1979.8~2001.2)"
-weight = 14
+weight = 7
 +++
 
 #### 연구분야

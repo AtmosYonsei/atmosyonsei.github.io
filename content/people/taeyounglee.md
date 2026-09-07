@@ -7,13 +7,17 @@ email = "lty@yonsei.ac.kr"
 job = "명예교수(1987.3~2017.2)"
 phone = "02-2123-2687"
 room = "대기모형 및 대기오염 연구실 / 과학관 539호"
-weight = 13
+weight = 4
 +++
 
 #### 연구분야
 + 중규모기상학
 + 대기오염
 + 대기모델링
++ Numerical Weather Prediction
+
+#### 학력
++ **Ph.D.** (1984) Oregon State University, USA
 
 #### 담당과목
 + 대기분석

@@ -7,7 +7,7 @@ job = "퇴임교수(2000.9 ~ 2017.3)"
 email = "songyouhong@gmail.com"
 room = "현 한국형수치예보모델개발사업단 단장"
 web = "https://www.kiaps.org/about/greeting.do"
-weight = 16
+weight = 3
 +++
 
 #### 연구분야
@@ -18,7 +18,7 @@ weight = 16
 + 지역기후
 
 #### 학력
-+ 서울대학교 대기과학 박사('92)
++ Ph.D. (1992) in Atmospheric Sciences, Seoul National University, Seoul, Korea
 
 #### 약력
 + 사업단장, 한국형수치예보모델개발사업단(KIAPS)('14~)

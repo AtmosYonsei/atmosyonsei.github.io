@@ -34,6 +34,7 @@ weight = 4
 + 해양-대기 상호작용
 
 #### 논문
+
 + S.-I. An, J. Shin, S.-W. Yeh, S.-W. Son, J.-S. Kug, S.-K., Min, and H.-J. Kim (2021) Global cooling hiatus driven by an AMOC overshoot in a carbon dioxide removal scenario, Earth’s Future
 + J-H Park, M-K Sung, Y-M Yang, J Zhao, S-I An, and J-S Kug, 2021: Role of the climatological intertropical convergence zone in the seasonal footprinting mechanism of the El Niño-Southern Oscillation, Journal of Climate, 34, 5243-5256. https://doi.org/10.1175/JCLI-D-20-0809.1.
 + S-K Kim, and S-I An, 2021: Seasonal gap theory for ENSO phase locking. Journal of Climate, 34, 5621-5634. https://doi.org/10.1175/JCLI-D-20-0495.1
@@ -61,7 +62,7 @@ weight = 4
 + Jongsoo Shin, Roman Olson, and Soon-Il An. 2019: Improved probabilistic twenty-first century projections of sea surface temperature over East Asian marginal seas by considering uncertainty owing to model error and internal variability. Climate Dynamics, 53, 6075-6087. https://doi.org/10.1007/s00382-019-04911-0
 + Soon-Il An and Eun Sook Heo. 2019: Robust opposite‐changing tendency between the thermal advection damping by mean current and thermo‐dynamical damping of ENSO Feedback in a changing climate. Royal Meteorological Society. International Journal of Climatology, 39, 5822-5829. https://doi.org/10.1002/joc.6176
 + Hyo-Jeong Kim and Soon-Il An. 2019: Impact of North Atlantic Freshwater Forcing on the Pacific Meridional Overturning Circulation under Glacial and Interglacial Conditions. Journal of Climate, 32. 4641-4659. https://doi.org/10.1175/JCLI-D-19-0065.1
-+ Roman Olson, Soon-Il An, Yanan Fan, and Jason P. Evans. 2019: Accounting for skill in trend, variability, and autocorrelation facilitates better multi-model projections: Application to the AMOC and temperature time series. PLoS ONE, 14(4): e021435. https://doi.org/10.1371/journal. pone.0214535 
++ Roman Olson, Soon-Il An, Yanan Fan, and Jason P. Evans. 2019: Accounting for skill in trend, variability, and autocorrelation facilitates better multi-model projections: Application to the AMOC and temperature time series. PLoS ONE, 14(4): e021435. https://doi.org/10.1371/journal. pone.0214535
 + R. Olson, K. L. Ruckert, W. Chang, K. Keller, M. Haran, and S.-I. An, 2018: Stilt: Easy emulation of time series AR(1) computer model output in multidimensional parameter space. The R Journal 10:2, pages 209-225.
 + Ji-Won Kim, and Soon-Il An 2018: Western North Pacific anticyclone chnage associated with the EL Nino-Indian Ocean Dipole coupling. International Journal of Climatology, 39, 2505-2521. http://doi.org/10.1002/joc.5967
 + Soon-Il An, and Ji-Won Kim 2018: ENSO transition asymmetry: Internal and external causes and intermodel diversity. Geophysical Research Letters, 45, 5095-5104. https://doi.org/10.1029/2018GL078476
@@ -113,18 +114,21 @@ weight = 4
 + Dewitte B., J. Choi, S.-I. An, and S. Thual, 2012 : Vertical structure variability and equatorial waves during central Pacific and eastern Pacific El Ninos in a coupled general circulation model, Climate Dynamics, 38, 2275-2289.
 + Choi, J., S.-I. An, and S.-W. Yeh, 2012 : Decadal amplitude modulation of two types of ENSO and its relationship with the mean state, Climate Dynamics, 38, 2631-2644.(corresponding author)(June 1, 2012)
 + An, S.-I., J.-H. Park, B.-M. Kim, A. Timmermann, and F.-F. Jin, 2012 : Impacts of ocean gateway and basin width on Tertiary tropical climate variability in a prototype model, Theor, Appl. Climatol., 107, 155-164.(Jan. 9, 2012)
++ An, S.-I. and J. Choi, 2012 : On the Development of 2012 EI Nino, Atmosphere. 22, 465-472( Korean).
 + An, S.-I., 2011 : Atmospheric responses of Gill-type and Lindzen-Nigam models to global warming, J. Climate, 24, 6165-6173.(Dec 1, 2011)
 + Choi, J., S.-I. An, J.-S. Kug, and S.-W. Yeh, 2011 : The role of mean state on changes in El Nino’s flavor, Climate Dynamics, 37, 1205-1215.(corresponding author)(Sep. 1, 2011)
 + Thual, S., B. Dewitte, N. Ayoub, and S.-I. An, 2011 : Sensitivity of ENSO to stratification in a recharge-discharge conceptual model. J. Climate, 24, 4332-4349.
 + Sung, M.-K., G.-H. Lim, J.-S. Kug, and S.-I. An, 2011 : A linkage between the NAO and its down stream development due to the existence of blocking ridge. J. Geophys. Res.- Atmosphere, 116, D11107.(corresponding author)(June. 4, 2011)
 + Kim, B.-M., and S.-I. An, 2011: Understanding ENSO regime behavior upon an increase in the warm-pool temperature using a simple ENSO model. J. Climate, 24, 1438-1450.(corresponding author)(Mar. 1, 2011)
 + An, S.-I., and F.-F. Jin, 2011: Linear solutions for the frequency and amplitude modulation of ENSO by the annual cycle, Tellus, 63A, 238-243.(Mar. 1, 2011)
++ An, S.-I., K.-J. Ha, K.-H. Seo, S.-W. Yeh, S.-K. Min, and C.-H. Ho, 2011 : A review of recent climate trends and causes over the Korean Peninsula, Climate Change Research, 2(4), 237-251(Korean).
 + An, S.-I., and J. Choi, 2010 : Interaction between Equatorially Symmetric and Asymmetric Tropical Eastern Pacific SSTs, Theor. Appl. Climatol., 102, 151-158.
 + Belmadani, A., B. Dewitte and S.-I. An, 2010 : ENSO feedbacks and associated timescales of variabillity in a multi-model ensemble, J.Climate, 23, 3181-3204.(June 15, 2010)
 + Collins, M., S.-I. An, W. Cai, A. Ganachaud, E. Guilyardi, F.-F. Jin, M. Jochum, M. Lengaigne, S. Power, A. Timmermann, G. Vecchi, and A. Wittenberg, 2010: The impact of global warming on the tropical Pacific Ocean and El Nino, Nature Geoscience, 3, 391-397.
 + Kug, J.-S., S.-I. An, Y.-G. Ham, and I.-S. Kang, 2010 : Changes in El Nino and La Nina teleconncetions over North Pacific-America in the global warming simulations, Theor. Appl. Climatol., 100, 275-282.(corresponding author)(May. 2010)
 + Kug, J.-S., J. Choi, S.-I. An, F.-F. Jin and A.-T. Wittenberg, 2010 : Warm Pool and Cold Tongue El Nino events as simulated by the GFDL2.1 coupled GCM, J. Climate, 23, 1226-1239.(corresponding author)(Mar. 1, 2010)
 + An, S. -I., Y.-G. Ham, J.-S. Kug, A. Timmermann, J. Choi and I.-S. Kang, 2010 : The inverse effect of annual mean state and annual cycle changes on ENSO, J. Climate, 23, 1095-1110.(Mar. 1, 2010)
++ Kug, J.-S., S.-I. An, 2010 : Ocean dynamic processes responsible for the interannual variability of the tropical Indian Ocean SST associated with ENSO, Atmosphere, 20, 211-219.
 + Choi, J., S.-I. An, B. Dewitte, and W.-W. Hsieh, 2009 : Interactive feedback between the tropical Pacific decadal oscillation and ENSO in a coupled general circulation model, J. Climate, 22, 6597-6611.(corresponding author)(Dec. 15. 2009)
 + Dewitte, B., S. Thual, S.-W. Yeh, S.-I. An, B.-K. Moon, and Giese, 2009 : Low-frequency Variability of Temperature in the Vicinity of the Equatorial Pacific thermocline in SODA: Role of Equatorial Wave Dynamics and ENSO Asymmetry, J. Climate, 22, 5783-5795.(Nov. 15, 2009)
 + An, S. -I., and J. Choi, 2009 : Seasonal locking of the ENSO asymmetry and its influence on the seasonal cycle of the tropical eastern Pacific sea surface temperature. Atmospheric Research, 94, 3-9.(Sep. 2009).
@@ -173,8 +177,5 @@ weight = 4
 + An, S.-I., F.-F. Jin, and I.-S. Kang, 1999 : The role of zonal advection feedback in phase transition and growth of ENSO in the Cane-Zebiak model, J. Meteor. Soc. Japan. 77, 1151-1160.
 + Jin, F.-F. and S.-I. An, 1999 : Thermocline and zonal advection feedbacks within the equatorial ocean recharge oscillator model for ENSO, Geophys. Res. Lett., 26, 2989-2992.
 + Kang, I.-S., and S.-I. An, 1998 : Kelvin and Rossby wave contributions to the SST oscillation of ENSO, J. Climate. 11, 2461-2469.
-+ An, S.-I. and J. Choi, 2012 : On the Development of 2012 EI Nino, Atmosphere. 22, 465-472( Korean).
-+ An, S.-I., K.-J. Ha, K.-H. Seo, S.-W. Yeh, S.-K. Min, and C.-H. Ho, 2011 : A review of recent climate trends and causes over the Korean Peninsula, Climate Change Research, 2(4), 237-251(Korean).
-+ Kug, J.-S., S.-I. An, 2010 : Ocean dynamic processes responsible for the interannual variability of the tropical Indian Ocean SST associated with ENSO, Atmosphere, 20, 211-219.
 + Kang, I.-S., Yang-Mi Lee, and S.-I. An, 1995 : Interannual variability of Typhoon activity over the western Pacific and El Nino, J. Korean Meteor. Soc. 31, 15-26.
 + Kang, I.-S., S.-I. An, C.-H. Joung, S.-C. Yoon, and S.-M. Lee, 1989 : 30-60 day oscillation signal appearing in climatological variation of outgoing longwave radiation around East Asian region during Northern Summer, J. Korean Meteor. Soc., 25, 221-232.
