@@ -3,12 +3,12 @@ title = "이호인"
 date = "2026-04-01"
 teams = ["staff"]
 banner = "img/people/Hoin_Lee.jpg"
-email = "@yonsei.ac.kr"
+email = "hoinlee@yonsei.ac.kr"
 job = "박사후연구원"
 phone = "02-2123-7619"
 room = "경계층기상/환경연구실/과학관534호"
 web = "https://blme.yonsei.ac.kr/"
-weight = 24
+weight = 25
 +++
 
 #### 연구분야
