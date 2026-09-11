@@ -30,8 +30,8 @@ weight = 5
 
 
 #### 논문
-+ H.-J. Kim, J.-S. Kim, J.-H. Park, and Y.-G. Ham (in preparation) North Tropical Atlantic SST as a Climatic Driver of Wildfire Activity in Brazilian Cerrado.
-+ H.-J. Kim, J.-S. Kim, S.–I. An, J. Shin, J.-H. Oh, and J.-S. Kug (in preparation) Pervasive Fire Danger Continued Under a Negative Emission Scenario.
++ H.-J. Kim, J.-S. Kim, Y.-G. Ham, J.-H. Park, D. Milodowski, L. Aragão, and M. Williams (2025) Anomalous temperature in North Tropical Atlantic linked to Brazilian Cerrado fires, npj Clim Atmos Sci 8, 63.
++ H.-J. Kim, J.-S. Kim, S.-I. An, J. Sin, J.-H. Oh, and J.-S. Kug (2024) Pervasive Fire Danger Continued Under a Negative Emission Scenario, Nat Commun 15, 11010.
 + M.-K. Sung, S.-I. An, J. Shin, J.-H. Park, Y.-M. Yang, H.-J. Kim, and M. Chang (2023) Ocean fronts as decadal thermostats modulating continental warming hiatus, Nat Commun, 14, 7777.
 + J.-H. Park, J.-S. Kug, Y.-M. Yang, M.-K. Sung, S. Kim, H.-J. Kim, H.-J. Park, and S.-I. An (2023) Distinct decadal modulation of Atlantic-Niño influence on ENSO, npj Clim Atmos Sci 6, 105. https://doi.org/10.1038/s41612-023-00429-9 
 + H.-J. Kim, S.-I. An., J.-H. Park, M.-K. Sung, D. Kim, Y. Choi, and J.-S. Kim (2023) North Atlantic Oscillation impact on the thermohaline circulation shaped by the mean states, npj Clim Atmos Sci 6, 25. https://doi.org/10.1038/s41612-023-00354-x 

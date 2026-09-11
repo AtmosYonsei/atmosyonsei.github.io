@@ -6,15 +6,13 @@ banner = "img/people/안서희.jpg"
 email = "shahn11@yonsei.ac.kr"
 job = "박사후연구원"
 phone = "02-2123-7619"
-room = "경계층기상/환경연구실/과학관534호"
+room = "경계층기상/환경연구실/과학관522B호"
 web = "https://blme.yonsei.ac.kr/"
 weight = 21
 +++
 
 #### 연구분야
- + Air quality modeling and Air pollutants
- + meteorology
- + climate interactions
+ + Air quality modeling and Air pollutants/meteorology/climate interactions
 
 #### 학력
  + **Ph.D.** (2024) in Polar Science (Atmospheric Science), University of Science and Technology (UST), Korea Polar Research Institute Campus, Incheon, Korea

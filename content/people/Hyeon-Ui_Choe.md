@@ -3,12 +3,12 @@ title = "최현의"
 date = "2026-04-02"
 teams = ["graduate"]
 banner = "img/people/최현의_박사과정.jpg"
-email = "Chui733@yonsei.ac.kr/"
+email = "huchoe@yonsei.ac.kr/"
 job = "박사과정"
 phone = ""
 room = "기후이론 연구실 / 과학관 536A호"
 web = "https://ysctl.yonsei.ac.kr/"
-weight = 64
+weight = 63
 +++
 
 #### 연구분야
