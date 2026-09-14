@@ -34,7 +34,7 @@ weight = 8
 + (2020) Young Investigator Award, Korean Society for Atmospheric Environment (KOSAE)
 
 #### 논문
-* Corresponding author
+\* Corresponding author
 + Yeo, M. J., H. Lee, J. Park, and J.-H. Koo* (2026), Delayed influenza resurgence following high PM2.5 episodes: Insights from the 2019 spring anomaly in South Korea, Air Quality, Atmosphere & Health, in press.
 + Eom, S., M. J. Yeo, D. Lee, J.-H. Koo, J. Kim, Y. Ren, C. R. Oxford, X. Liu, A. M. Dillner, R. V. Martin, S.-D. Choi, C.-K. Song, J. Park, H. Kim, and S. S. Park (2026), Contrasting long-range transport signals of metropolitan PM2.5 in South Korea detected by SPARTAN observations, Atmospheric Pollution Research, 17(8), 103088. https://doi.org/10.1016/j.apr.2026.103088
 + Koo, J.-H., S.-J. Lee, T. Lee, D. Lee, M. J. Yeo, H.-J. Song, S. Jeong, and J. Hong* (2025), Analysis of Methane (CH4) Distribution in Northeast Asia Based on Satellite Measurement Data, Journal of Korean Society for Atmospheric Environment, 41(5), 826–844. https://doi.org/10.5572/KOSAE.2025.41.5.826 (in Korean with English abstract)
