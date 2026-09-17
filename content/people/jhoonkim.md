@@ -4,7 +4,7 @@ date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
-job = "정교수, 연세 이윤재 펠로우 교원"
+job = "정교수, 연세 이윤재 펠로우 교원('23-'26)"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
 web = "http://atrad.yonsei.ac.kr"
@@ -19,14 +19,17 @@ weight = 2
 
 
 #### 학력
-+ **Ph.D.** (1991) 미시건대학교 (앤아버), 공과대학 대기.우주과학
-+ **M.S.** (1987)  미시건대학교 (앤아버), 공과대학 대기과학
-+ **B.S.** (1986)  서울대학교 자연과학대학 대기과학
++ **박사** (1991)  미시건대학교 (앤아버), 공과대학 대기.우주과학
++ **석사** (1987)  미시건대학교 (앤아버), 공과대학 대기과학
++ **학사** (1986)  서울대학교 자연과학대학 대기과학
 
 #### 경력
 + 2003 - 현재     : 연세대학교 대기과학과/지구환경연구소 교수, 연세 이윤재 펠로우
 + 1991 - 2003    : 한국항공우주연구원(KARI) 책임연구원, 선임연구원
 + 2021 - 현재     : 한국과학기술한림원 이학부 정회원
++ 2023 - 현재     : 한국공학한림원 건설환경공학부 일반회원
++ 2021 - 현재     : 한국과학기술한림원 이학부 정회원
++ 2026 - 2027    : 독일 막스 플랑크 연구소 객원교수
 + 2021 - 2022    : SAIT(삼성종합기술원) 미세먼지연구소장 겸 탄소포집연구소장
 + 2017 - 2020    : International Radiation Commission (IRC) 위원
 + 2017 - 2024    : WMO (세계기상기구) GAW Urban Research Meteorology and Environment (GURME) 과학자문위원
@@ -39,13 +42,13 @@ weight = 2
 
 
 #### 수상
-+ 2025-10       :        독일 알렉산더 폰 훔볼트 재단 Humboldt Research Award (훔볼트연구상)
-+ 2025-08        :        미국 NASA Exceptional Public Service Medal (특별공로훈장)
-+ 2024-09        :        미국 미시건 대학 공과대학 Alumni Merit Award
++ 2025. 10       :        독일 알렉산더 폰 훔볼트 재단 훔볼트연구상 (Humboldt Research Award)
++ 2025. 8        :        미국 항공우주국(NASA) 특별공로훈장 (Exceptional Public Service Medal)
++ 2024. 9        :        미국 미시건 대학 (앤아버) 동문공로상 (Alumni Merit Award)
++ 2025, 2024, 2017 :      NASA Group Achievement Award
 + 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
-+ 2019-04        :        정부 과학기술 포장
-+ 2018-02        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
-+ 2017-06        :        NASA Group Achievement Award
++ 2019. 4        :        정부 과학기술 포장
++ 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
 
 
 #### 담당 과목
@@ -55,12 +58,11 @@ weight = 2
 + 환경원격탐사
 
 #### 논문
-
 + Ren, Y., Oxford, C.R., Zhang, D., ..., J. Kim et al. (2025) Black carbon emissions generally underestimated in the global south as revealed by globally distributed measurements. Nature Communications, 16, 7010. https://doi.org/10.1038/s41467-025-62468-5
 + Kim, J., and Coauthors, 2020: New Era of Air Quality Monitoring from Space: Geostationary Environment Monitoring Spectrometer (GEMS). BAMS, 101, E1–E22, https://doi.org/10.1175/BAMS-D-18-0013.1.
-+ Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
 + Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
++ Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
 + Jeong, Ukkyo, Jhoon Kim, Hanlim Lee, Yun Gon Lee (2017), Assessing the effect of long-range pollutant transport on air quality in Seoul using the conditional potential source contribution function method, Atmospheric Environment, 150, 33-44, doi: 10.1016/j.atmosenv.2016.11.017.
 + Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
 + Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.
-+ 외 논문 다수 (http://atrad.yonsei.ac.kr/bbs/board.php?tbl=bbs31)
++ 외 논문 다수 (http://atrad.yonsei.ac.kr/publications)
