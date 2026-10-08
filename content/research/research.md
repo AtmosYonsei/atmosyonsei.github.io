@@ -93,6 +93,6 @@ weight = 1
 
 <br>
 
-#### 구름물리 연구실(염재민 교수님) [(http://cloud.yonsei.ac.kr)](http://cloud.yonsei.ac.kr)
+#### 구름물리 연구실(염재민 교수님) [(https://sites.google.com/view/cloud-physics-lab-yonsei)](https://sites.google.com/view/cloud-physics-lab-yonsei)
 
 구름의 생성과 성장을 이해하고, 강수 과정의 개시 여부와 강수량의 정량적 평가를 위해서는 구름 내에서 일어나는 미세물리(cloud microphysics) 과정에 대한 이해가 필수적입니다. 최근의 기후변화 연구에서 주목받고 있는, 구름에 의한 태양복사에너지 반사는 이러한 미세물리 과정에 대한 종합적 이해를 요구합니다. 구름물리연구실에서는 장비의 개발 및 측정, 위성과 레이더 관측 분석, 구름 모형, 난류 모형 그리고 종관 모형 등 다양한 수치모형 연구를 통해 구름 미세물리 과정을 연구하고 있습니다.
