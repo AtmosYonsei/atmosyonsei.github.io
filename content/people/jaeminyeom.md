@@ -8,7 +8,7 @@ job = "조교수"
 phone = "02-2123-5681"
 room = "구름물리 연구실 / 과학관 547호"
 weight = 12
-web = " "
+web = "https://sites.google.com/view/cloud-physics-lab-yonsei"
 +++
 
 #### 연구분야
