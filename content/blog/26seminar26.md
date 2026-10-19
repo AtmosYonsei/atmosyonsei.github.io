@@ -1,5 +1,5 @@
 ﻿+++
-title = "[세미나] 김소영 교수님"
+title = "[세미나] 김소영 박사님"
 date = "2026-10-18"
 categories = ["세미나"]
 banner = "img/placeholder.png"
