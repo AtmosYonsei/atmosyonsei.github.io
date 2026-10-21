@@ -2,7 +2,7 @@
 banner = "img/people/hajoonsong_200x200.jpeg"
 date = 2018-09-04T11:39:46Z
 email = "hajsong@yonsei.ac.kr"
-job = "부교수"
+job = "정교수"
 phone = "02-2123-2579"
 room = "대기해양모델링 연구실, 과학관 544호"
 teams = ["faculty"]
