@@ -14,8 +14,7 @@ weight = 2
 #### 연구분야
 + 대기복사
 + 대기환경, 기후변화
-+ 위성원격탐사
-+ 에어러솔 및 미량기체 원격측정 및 분석
++ 대기조성 위성원격측정
 
 
 #### 학력
@@ -24,29 +23,29 @@ weight = 2
 + **학사** (1986)  서울대학교 자연과학대학 대기과학
 
 #### 경력
-+ 2003 - 현재     : 연세대학교 대기과학과/지구환경연구소 교수, 연세 이윤재 펠로우
-+ 1991 - 2003    : 한국항공우주연구원(KARI) 책임연구원, 선임연구원
++ 2003 - 현재     : 연세대학교 대기과학과 교수, 연세 이윤재 펠로우 교원 (2023-2026)
++ 1991 - 2003    : 한국항공우주연구원(KARI) 책임연구원
 + 2021 - 현재     : 한국과학기술한림원 이학부 정회원
 + 2023 - 현재     : 한국공학한림원 건설환경공학부 일반회원
-+ 2021 - 현재     : 한국과학기술한림원 이학부 정회원
+
 + 2026 - 2027    : 독일 막스 플랑크 연구소 객원교수
 + 2021 - 2022    : SAIT(삼성종합기술원) 미세먼지연구소장 겸 탄소포집연구소장
-+ 2017 - 2020    : International Radiation Commission (IRC) 위원
-+ 2017 - 2024    : WMO (세계기상기구) GAW Urban Research Meteorology and Environment (GURME) 과학자문위원
++ 2017 - 2024    : International Radiation Commission (IRC) 위원
++ 2017 - 2024    : WMO (세계기상기구) 과학자문위원
 + 2016 - 2017    : Harvard | Smithonian Center, Atmospheric Measurement Group 방문과학자
 + 2014 - 2017    : WHO (세계보건기구) Global Platform for Air Quality and Health, 자문위원
-+ 2012 - 현재     : 환경위성탑재체알고리즘개발 연구단장, GEMS (Geostationary Environment Monitoring Spectrometer) Mission
++ 2012 - 현재     : 환경위성탑재체알고리즘개발 연구단장, GEMS Mission
 + 2012 - 2020    : International Ozone Commission (IO3C) 위원 
 + 2010 - 현재     : CEOS (Committee on Earth Observing Satellites) AC-VC 위원
 + 2009 - 2010    : NASA Jet Propulsion Laboratory/CalTech 과학기술고문, 미국 UCLA 객원학자
 
 
 #### 수상
-+ 2025. 10       :        독일 알렉산더 폰 훔볼트 재단 훔볼트연구상 (Humboldt Research Award)
++ 2025. 10       :        독일 훔볼트연구상 (Humboldt Research Award)
 + 2025. 8        :        미국 항공우주국(NASA) 특별공로훈장 (Exceptional Public Service Medal)
 + 2024. 9        :        미국 미시건 대학 (앤아버) 동문공로상 (Alumni Merit Award)
 + 2025, 2024, 2017 :      NASA Group Achievement Award
-+ 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
++ 2019, 2013, 2012 :      연세대학교 우수강의 교수상
 + 2019. 4        :        정부 과학기술 포장
 + 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
 
@@ -60,9 +59,7 @@ weight = 2
 #### 논문
 + Ren, Y., Oxford, C.R., Zhang, D., ..., J. Kim et al. (2025) Black carbon emissions generally underestimated in the global south as revealed by globally distributed measurements. Nature Communications, 16, 7010. https://doi.org/10.1038/s41467-025-62468-5
 + Kim, J., and Coauthors, 2020: New Era of Air Quality Monitoring from Space: Geostationary Environment Monitoring Spectrometer (GEMS). BAMS, 101, E1–E22, https://doi.org/10.1175/BAMS-D-18-0013.1.
-+ Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
-+ Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
-+ Jeong, Ukkyo, Jhoon Kim, Hanlim Lee, Yun Gon Lee (2017), Assessing the effect of long-range pollutant transport on air quality in Seoul using the conditional potential source contribution function method, Atmospheric Environment, 150, 33-44, doi: 10.1016/j.atmosenv.2016.11.017.
++ Lee, J., J. Kim, C. H. Song, S.B. Kim, Y. Chun. B.J. Sohn, and B. N. Holben (2010) Characteristics of Aerosol Types from AERONET Sunphotometer Measurements . In: Atmospheric Environment, 44, 3110-3117, https://doi.org/10.1016/j.atmosenv.2010.05.035
 + Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
 + Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.
 + 외 논문 다수 (http://atrad.yonsei.ac.kr/publications)
